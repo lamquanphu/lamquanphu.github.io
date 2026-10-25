@@ -76,7 +76,7 @@ Lý do của em là vì vị trí địa lý thuộc về dữ liệu cá nhân 
 Để từng bước lấp đầy các khoảng trống nền tảng trong bảng ASK, em cam kết thực hiện 3 hành động thực tế và có thể kiểm chứng được ngay trong học kỳ này:
 
 1. **Nắm chắc nền tảng tư duy lập trình với C++:** Hoàn thành tối thiểu 20 bài tập C++ cơ bản (về vòng lặp, mảng, hàm, chuỗi) trong chương trình học tại trường và đẩy toàn bộ mã nguồn lên GitHub trước ngày 20/12/2026. *(Tiêu chí kiểm tra: Repo GitHub cá nhân chứa 20 tệp `.cpp` chạy thành công)*.
-2. **Tự học cú pháp Python và làm bài tập xử lý tệp đơn giản:** Hoàn thành 1 khóa học Python cơ bản cho người mới bắt đầu (trên Youtube/Coursera) và viết 1 script Python nhỏ tự động đọc/xử lý file văn bản hoặc file CSV đơn giản. *(Tiêu chí kiểm tra: Tệp `.py` hoặc Jupyter Notebook chạy được trên Google Colab trước ngày 30/12/2026)*.
+2. **Tự học cú pháp Python và làm bài tập xử lý tệp đơn giản:** Hoàn thành 1 khóa học Python cơ bản cho người mới bắt đầu (trên Youtube) và viết 1 script Python nhỏ tự động đọc/xử lý file văn bản hoặc file CSV đơn giản. *(Tiêu chí kiểm tra: Tệp `.py` hoặc Jupyter Notebook chạy được trên Google Colab trước ngày 30/12/2026)*.
 3. **Thực hành thao tác Git/GitHub cơ bản:** Sử dụng Git để lưu trữ toàn bộ bài tập cá nhân của các môn học trong học kỳ này với tối thiểu 10 lần đẩy mã nguồn (commits) có ghi chú rõ ràng. *(Tiêu chí kiểm tra: Lịch sử đóng góp trên trang cá nhân GitHub)*.
 
 ---

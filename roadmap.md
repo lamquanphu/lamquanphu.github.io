@@ -1,6 +1,24 @@
 # Lộ trình học tập 8 học kỳ (Roadmap) - Ngành Khoa học Máy tính
 
-> **Ghi chú:** Bản nháp v0 (Bước 1: Viết tại lớp trong 7 phút - đóng máy) đã được em lưu thành tệp `roadmap-v0.md` riêng biệt trong kho mã này và ghi nhận commit sớm hơn bản cuối.
+---
+
+## H1 · Hỏi (Bước 1: Viết v0 tại lớp — đóng máy)
+
+> **Ghi chú:** Bản nháp tự ngẫm 7 phút tại lớp (gập máy tính, không tra cứu tài liệu) trước khi sử dụng AI và kiểm tra tệp chương trình đào tạo chính thức.
+
+**1. Ước tính số tín chỉ & Thời gian học**
+- **Số học kỳ dự kiến:** 8 học kỳ (4 năm học).
+- **Tổng số tín chỉ tích lũy ước tính:** Khoảng 135 – 140 tín chỉ.
+- **Khối lượng trung bình:** Tầm 16 – 17 tín chỉ / học kỳ.
+
+**2. Hình dung ban đầu về các khối kiến thức**
+- **Khối Đại cương (~30 tín chỉ):** Triết học Mác - Lênin, Giải tích, Tiếng Anh, Thể dục và Quốc phòng. *(Hình dung ban đầu của em: Tất cả các môn này đều được cộng dồn điểm tín chỉ vào tổng để xét tốt nghiệp)*.
+- **Khối Cơ sở & Chuyên ngành (~80 – 90 tín chỉ):** Lập trình C/C++, Python, Cấu trúc dữ liệu và giải thuật, Cơ sở dữ liệu, Mạng máy tính, Web và Trí tuệ nhân tạo.
+- **Khối Tốt nghiệp (~15 tín chỉ):** Đi thực tập tại doanh nghiệp và làm Đồ án / Khóa luận tốt nghiệp.
+
+**3. Suy nghĩ ban đầu về môn tự chọn & Điều kiện tiên quyết**
+- Em chưa nắm rõ danh mục học phần tự chọn, nghĩ rằng đến năm 3 nhà trường sẽ xếp sẵn danh sách môn để sinh viên đăng ký theo.
+- Em chưa hiểu rõ quy định về môn học tiên quyết (nghĩ rớt môn nào thì chỉ cần học lại môn đó ở kỳ sau, không ảnh hưởng đến tiến độ đăng ký các môn khác).
 
 ---
 
@@ -11,10 +29,10 @@
 
 **Ảnh chụp màn hình toàn bộ câu trả lời gốc của AI (có rõ ngày giờ):**
 
-<img width="2048" height="1265" alt="1" src="https://github.com/user-attachments/assets/1d55720d-f054-4d5b-95bd-4b15decbf483" />
-<img width="2048" height="1278" alt="2" src="https://github.com/user-attachments/assets/461273b4-240c-41ec-a322-e12b22e6d4cc" />
-<img width="2048" height="1270" alt="3" src="https://github.com/user-attachments/assets/2f4364ae-3fd0-49f6-91be-c6bf262ee652" />
-<img width="2048" height="1268" alt="4" src="https://github.com/user-attachments/assets/ef35effd-f35c-44f4-a985-a57c765cecf5" />
+<img width="2314" height="1439" alt="1" src="https://github.com/user-attachments/assets/6d93466a-dfe7-4ea6-8e0c-5a79963eb972" />
+<img width="2304" height="1436" alt="2" src="https://github.com/user-attachments/assets/d5288539-ade2-477f-9141-fe94784b149b" />
+<img width="2309" height="1440" alt="3" src="https://github.com/user-attachments/assets/6af7be6b-df85-40be-9516-a1e4fad1c47f" />
+<img width="2298" height="1427" alt="4" src="https://github.com/user-attachments/assets/a75d52b2-856a-4036-9aad-5dc3ee060614" />
 
 ---
 
@@ -26,15 +44,23 @@
 
 ---
 
-## H3 · Học (Bước 4 & 5: Đối chiếu tài liệu thật và lập bảng 3 lỗi)
+## H3 · Học (Bước 4 & 5: Mở tệp chương trình đào tạo thật và đối chiếu)
 
-Sau khi chất vấn AI, em mới chính thức mở tệp Chương trình đào tạo ngành Khoa học máy tính thật (Quyết định 2574/QĐ-ĐKC). Làm "phép cộng 20 giây" và đối chiếu từng dòng, em bắt được 3 lỗi sau:
+Bây giờ em mới chính thức mở tệp chương trình đào tạo thật (Quyết định 2574/QĐ-ĐKC). Áp dụng phép "kiểm tra số học 20 giây" và đối chiếu từng dòng, em đã phát hiện ra 3 lỗi nghiêm trọng trong câu trả lời của AI.
+
+Dưới đây là bảng 3 lỗi kèm bằng chứng và phân loại:
 
 | 1. AI nói gì (Chép nguyên văn) | 2. Sự thật theo chương trình đào tạo | 3. Trích dẫn nguồn (Trang/Mục) | 4. Kiểu lỗi |
 | :--- | :--- | :--- | :--- |
 | "Tổng số tín chỉ tích lũy toàn khóa: 130 tín chỉ" | Tổng khối lượng kiến thức tích lũy toàn khóa chuẩn là 150 tín chỉ. Phép tính tổng của AI đã làm hụt mất 20 tín chỉ tốt nghiệp của sinh viên. | Trang 1, Mục "Tổng khối lượng kiến thức" | **Sai số liệu (Bắt bằng phép kiểm số học)** |
-| "Mã học phần KHM203: Hệ thống số và vi xử lý (3 tín chỉ)" | Không có học phần nào có mã `KHM203` hay tên như vậy trong toàn bộ khung 62 học phần của ngành Khoa học máy tính HUTECH. | Trang 1–3, Danh mục các học phần bắt buộc | **Bịa tên học phần** |
+| "Mã học phần KHM203: Hệ thống số và vi xử lý (3 tín chỉ)" | Không có học phần nào có mã `KHM203` hay tên như vậy trong toàn bộ khung 62 học phần của ngành Khoa học máy tính. | Trang 1–3, Danh mục các học phần bắt buộc | **Bịa tên học phần** |
 | "Mã học phần KVA401: Khóa luận tốt nghiệp (10 tín chỉ)" | Tên, mã và khối lượng chuẩn là `COS4012: Đồ án tốt nghiệp Khoa học máy tính` với khối lượng đúng là 9 tín chỉ. | Trang 3, Mục II.2.3 (Nhóm 3: Đồ án tốt nghiệp) | **Suy diễn không căn cứ (Lấy từ trường khác)** |
+
+**Ảnh chụp màn hình tệp CTĐT chuẩn (Quyết định 2574/QĐ-ĐKC) làm minh chứng:**
+
+<img width="855" height="1155" alt="{1674E524-31A6-4B6D-9049-EB858F41C2AF}" src="https://github.com/user-attachments/assets/c543cb61-b7e4-41ac-87df-7def46f5d3c1" />
+<img width="821" height="1145" alt="{5E6F72C5-BA6E-44D2-90A6-D178FC61FB3E}" src="https://github.com/user-attachments/assets/2d03cd8c-3add-43f5-9f21-9719176a6b9e" />
+<img width="836" height="1138" alt="{963999B3-3019-4A4F-BAB8-3BB2ED3607DF}" src="https://github.com/user-attachments/assets/b04afe30-7fce-42e6-9a1f-d6b41d181ccc" />
 
 ---
 
@@ -153,8 +179,22 @@ Nhận thấy bảng của AI sai lệch cấu trúc, em tự tay giải bài to
 
 ---
 
-## H4 · Hành (Bước 7: Viết đoạn 150 chữ kết nối nghề nghiệp)
+## H4 · Hành (Bước 7: Kết nối học phần tự chọn với định hướng nghề nghiệp)
 
 Trong danh mục các học phần tự chọn thuộc nhóm Công nghệ Trí tuệ nhân tạo, em quyết định lựa chọn học phần **Phân tích ảnh và thị giác máy tính (AIT1008 - 3 Tín chỉ)** ở Học kỳ 8 để đưa vào lộ trình cá nhân. 
 
 Lý do em chọn học phần này xuất phát trực tiếp từ mục tiêu nghề nghiệp đã xác định trong `career.md`: trở thành một **Kỹ sư AI / Học máy (AI/ML Engineer)**. Dù các môn học bắt buộc như *Cơ sở trí tuệ nhân tạo* hay *Máy học* đã trang bị nền tảng thuật toán và tư duy mô hình, nhưng *Phân tích ảnh và thị giác máy tính* mới là mảnh ghép giúp em đi sâu vào kỹ thuật xử lý dữ liệu phi cấu trúc hình ảnh/video thực tế. Kiến thức về xử lý ảnh, trích xuất đặc trưng và nhận diện đối tượng từ học phần này bổ trợ trực tiếp cho năng lực phát triển các ứng dụng AI thực chiến, giúp em hoàn thiện Dự án 3 trong CV và đáp ứng chính xác yêu cầu tuyển dụng khắt khe từ các doanh nghiệp công nghệ.
+
+---
+
+## Kế hoạch đăng ký môn thực tế cho Học kỳ 2 (Phương án dự phòng)
+
+- **Danh sách chính thức đăng ký (19 TC tích lũy):**
+  1. Triết học Mác - Lênin (3 TC)
+  2. Anh ngữ 2 (3 TC - *Tiên quyết: Đã học Anh ngữ 1*)
+  3. Giải tích (3 TC)
+  4. Đổi mới sáng tạo & tư duy khởi nghiệp (3 TC - *Tiên quyết: Đã học Tư duy TKDA*)
+  5. Kỹ thuật lập trình (3 TC - *Tiên quyết: Đã học Cơ sở lập trình*)
+  6. Nhập môn cơ sở dữ liệu (3 TC)
+  7. Thực hành lý thuyết đồ thị (1 TC)
+  8. GDTC 1 & QPAN 2 (Không tích lũy)

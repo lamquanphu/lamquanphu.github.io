@@ -186,15 +186,3 @@ Trong danh mục các học phần tự chọn thuộc nhóm Công nghệ Trí t
 Lý do em chọn học phần này xuất phát trực tiếp từ mục tiêu nghề nghiệp đã xác định trong `career.md`: trở thành một **Kỹ sư AI / Học máy (AI/ML Engineer)**. Dù các môn học bắt buộc như *Cơ sở trí tuệ nhân tạo* hay *Máy học* đã trang bị nền tảng thuật toán và tư duy mô hình, nhưng *Phân tích ảnh và thị giác máy tính* mới là mảnh ghép giúp em đi sâu vào kỹ thuật xử lý dữ liệu phi cấu trúc hình ảnh/video thực tế. Kiến thức về xử lý ảnh, trích xuất đặc trưng và nhận diện đối tượng từ học phần này bổ trợ trực tiếp cho năng lực phát triển các ứng dụng AI thực chiến, giúp em hoàn thiện Dự án 3 trong CV và đáp ứng chính xác yêu cầu tuyển dụng khắt khe từ các doanh nghiệp công nghệ.
 
 ---
-
-## Kế hoạch đăng ký môn thực tế cho Học kỳ 2 (Phương án dự phòng)
-
-- **Danh sách chính thức đăng ký (19 TC tích lũy):**
-  1. Triết học Mác - Lênin (3 TC)
-  2. Anh ngữ 2 (3 TC - *Tiên quyết: Đã học Anh ngữ 1*)
-  3. Giải tích (3 TC)
-  4. Đổi mới sáng tạo & tư duy khởi nghiệp (3 TC - *Tiên quyết: Đã học Tư duy TKDA*)
-  5. Kỹ thuật lập trình (3 TC - *Tiên quyết: Đã học Cơ sở lập trình*)
-  6. Nhập môn cơ sở dữ liệu (3 TC)
-  7. Thực hành lý thuyết đồ thị (1 TC)
-  8. GDTC 1 & QPAN 2 (Không tích lũy)
